@@ -1,0 +1,2 @@
+# python_homemade_script
+自宅で作成したPythonScriptの保管場所。出先からコードを確認する為のもの。
